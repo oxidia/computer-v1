@@ -1,0 +1,11 @@
+module.exports = {
+  START: "START",
+  PLUS: "PLUS",
+  MULT: "MULT",
+  MINUS: "MINUS",
+  NUMBER: "NUMBER",
+  POWER: "POWER",
+  EQUAL: "EQUAL",
+  VARIABLE: "VARIABLE",
+  END_OF_INPUT: "END_OF_INPUT",
+};
